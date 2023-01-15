@@ -16,3 +16,9 @@ Gestion de stock.exe : c'est une application en langage c, cette application peu
 ![Capture d’écran 2023-01-15 213701](https://user-images.githubusercontent.com/109146433/212566846-7395d40e-6dba-48b9-9612-4409e0b280fd.png)
 ## Affichage de l'historique :
 ![Capture d’écran 2023-01-15 213721](https://user-images.githubusercontent.com/109146433/212566848-f900ba28-bf24-4e9f-b8ba-a1e06bcae3e2.png)
+
+
+## Realizer par :
+  * Khaled Mrad
+  * Safwen Saafi
+  * Saber Ben Zineb
