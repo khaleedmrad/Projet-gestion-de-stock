@@ -1,0 +1,38 @@
+ID    |CATEGORIE      |MARQUE         |NOM            |PRIX    |QTE.  |DATE LIM. |
+_________________________________________________________________________________|
+213564|bureautiqueeees|LG             |produit 3000   |2551.5  |100001|05/03/2030|
+654455|reseau et sec. |Maxweeeeeeeeeel|produit_4      |221.0   |546521|23/04/2066|
+005656|gaming         |Asus           |produivfsdft 50|5654.545|0     |01/05/2048|
+121222|informatiqueees|Arduino        |produit_3666   |1.555   |684   |13/06/2088|
+123455|xadmamd        |sdvsd          |dsdf           |55.250  |5804  |01/01/2050|
+123555|max            |azdczad        |sdzaqd         |88.500  |555   |--/--/----|
+125555|sdvs           |dgsrtt         |sthrth         |55      |55    |01/01/2050|
+125436|mzadazd        |qfqeg          |ergqerg        |55.500  |55    |15/12/2050|
+125421|rhrtsh         |drgerg         |fdgbdrg        |55.50   |55    |--/--/----|
+125463|zcver          |ZEFEF          |cefez          |55.250  |89    |--/--/----|
+147852|zefze          |effdzef        |fzefz          |55.200  |5     |02/02/2080|
+236589|mfzep_epfz_ef  |efzefj         |rger_zefz      |58.500  |55984 |--/--/----|
+123546|efzef_efzef_zef|efef_efef_e_e  |edezf          |52.250  |555   |02/02/2025|
+102365|erfer          |rfgef          |ferg           |152.01  |154   |25/12/2050|
+156552|dgfqerg        |ergerg         |ergreg         |11      |555   |--/--/----|
+102354|Mappa_mefz     |qdfqezf_       |eefef          |6465.000|999   |--/--/----|
+459823|erfer_rgerg_   |rrfgreg        |rferg          |125.500 |55    |--/--/----|
+214578|mspsd_sld      |zdpza_pazd55   |azdz536565     |25.658  |568899|23/04/2050|
+514832|sdqsd          |sq             |ds             |23.560  |55    |--/--/----|
+158423|sqdqsd         |sqdqd          |qsdqs          |23.500  |555   |--/--/----|
+235614|sdcsd          |df             |sdf            |55.280  |2356  |--/--/----|
+235610|sqdq           |sdq            |sds            |25.200  |56    |--/--/----|
+231047|jn             |klk_lk         |ljlk_lkm       |25.500  |65    |--/--/----|
+147050|scqsd_dqsdqs   |qsdqsd         |sqd5689        |2.100   |23    |23/04/2025|
+325698|1ss_sd         |zezae_qs       |qsdqsqs        |258.550 |4     |--/--/----|
+235698|qzdlaqzm       |               |qsdqsz         |25.250  |25    |--/--/----|
+231478|dzadze         |ezdzerzee_e    |erzere_err     |23.500  |55    |23/04/2050|
+205184|hoihjo         |lkjpko_ijoij   |kllk_123       |25.250  |1234  |23/04/2050|
+125478|lmkm           |lpkm           |n nxxc<w       |235.500 |22    |--/--/----|
+156234|tel            |hhh            |ccc            |1.000   |15    |--/--/----|
+123456|123456         |bkjh           |cqsdc          |12.222  |546   |--/--/----|
+741235|qsdc           |qsdfsd         |dsqdf          |152.000 |132   |--/--/----|
+125843|vsd            |f              |vsdfv          |654.121 |54    |--/--/----|
+152632|vdqdsv         |qdsvqsdv       |qsdvsdv        |654.131 |54    |--/--/----|
+125634|cxwvc          |wxcvwc         |dsqv           |15236   |546   |--/--/----|
+158623|Electronique   |Intel          |processor      |250.000 |50    |--/--/----|
