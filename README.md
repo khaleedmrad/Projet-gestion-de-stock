@@ -18,7 +18,7 @@ Gestion de stock
 ![Capture d’écran 2023-01-15 213721](https://user-images.githubusercontent.com/109146433/212566848-f900ba28-bf24-4e9f-b8ba-a1e06bcae3e2.png)
 
 
-## Realizer par :
+## Realisé par :
   * Khaled Mrad
   * Safwen Saafi
   * Saber Ben Zineb
