@@ -1,6 +1,6 @@
 # Projet: Gestion de stock
 Gestion de stock
-Gestion de stock.exe : c'est une application en langage c, cette application peut ajouter ou supprimer des produits, les modifier ,consulter la date d'expiration et recherche des produit et afficher l'historique de gestion de stock 
+(Gestion de stock.exe) : c'est une application en langage c, cette application peut ajouter ou supprimer des produits, les modifier ,consulter la date d'expiration et recherche des produit et afficher l'historique de gestion de stock 
 
 ## Logo :
 ![Capture d’écran 2023-01-15 213009](https://user-images.githubusercontent.com/109146433/212566806-b4c8816d-9206-483b-9c5a-83694b2ea8f4.png)
