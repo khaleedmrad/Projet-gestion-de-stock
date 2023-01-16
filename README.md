@@ -12,7 +12,7 @@ Gestion de stock
 ![Capture d’écran 2023-01-15 213602](https://user-images.githubusercontent.com/109146433/212566819-b6105acf-5ef3-4d01-bb52-d49bb3aa8e53.png)
 ## Recherche de produit : 
 ![Capture d’écran 2023-01-15 213221](https://user-images.githubusercontent.com/109146433/212566837-b1304211-372c-4ccf-a9ed-c821f7a0a010.png)
-## consulter la date d'expiration des produits :
+## Consulter la date d'expiration des produits :
 ![Capture d’écran 2023-01-15 213701](https://user-images.githubusercontent.com/109146433/212566846-7395d40e-6dba-48b9-9612-4409e0b280fd.png)
 ## Affichage de l'historique :
 ![Capture d’écran 2023-01-15 213721](https://user-images.githubusercontent.com/109146433/212566848-f900ba28-bf24-4e9f-b8ba-a1e06bcae3e2.png)
